@@ -1,4 +1,4 @@
-# Making a quiz game
+# Making a quiz game in Python
 print("Welcome to the quiz game!")
 
 playing = input("Do you want to play? ")
